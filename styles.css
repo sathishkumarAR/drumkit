@@ -68,7 +68,8 @@ footer {
     color: white;
 }
 
-@media (max-width: 360px){
+/* Media Queries */
+@media screen and (max-width: 375px){
     .drum{
         width: 125px;
         height: 125px;
